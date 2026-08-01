@@ -3,7 +3,11 @@ print("this is the 2nd line")
 print("this is the 3rd line")
 print("Hello from main branch!")
 print("login feature branch")
+<<<<<<< HEAD
 print("Hello from Mousul city")
+=======
+print("Hello from Cairo city")
+>>>>>>> conflict-demo
 print("Adding hero section")
 print("Adding about-me section")
 print("Adding header")
