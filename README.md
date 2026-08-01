@@ -5,3 +5,4 @@
 # describing hero-section finished
 # describing about-me section
 # describing haeder.
+# describing footer.
